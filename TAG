@@ -1,0 +1,1 @@
+quay.io/keyvanfatehi/wetty:0.0.8
